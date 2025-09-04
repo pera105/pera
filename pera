@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Sono Pera</title>
+  <style>
+    body {
+      background-color: #fffbe6;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+      color: #228B22;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.5em;
+      color: #444;
+    }
+    .cowoncy {
+      margin-top: 30px;
+      font-size: 1.2em;
+      color: #8B0000;
+    }
+  </style>
+</head>
+<body>
+  <h1>🍐 Sono Pera</h1>
+  <p>Donatemi un pò di cowoncy, sono povera e fruttata.</p>
+  <div class="cowoncy">#CowoncyForPera</div>
+</body>
+</html>
